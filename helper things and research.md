@@ -1,4 +1,4 @@
-```
+```lua
 function DrawYachtName(name, style, color, font)
     if stage == 0 then
         if (renderId == -1) then
